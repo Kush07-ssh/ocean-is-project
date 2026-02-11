@@ -1,0 +1,252 @@
+[
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 38, Agreeableness: 42, Conscientiousness: 44, Neuroticism: 10, Openness: 48",
+    "output": "Analysis: You exhibit a highly resilient profile. Your high conscientiousness indicates you are a reliable worker who does a thorough job[cite: 11, 21]. With high openness, you are ingenious and an original thinker[cite: 13, 23]. Recommendations: Pursue high-level leadership in innovative sectors. Use your emotional stability to manage high-pressure strategic projects[cite: 32, 42]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 12, Agreeableness: 15, Conscientiousness: 38, Neuroticism: 25, Openness: 18",
+    "output": "Analysis: You are a reserved individual who prefers routine work[cite: 14, 43]. While you are a reliable worker, your low agreeableness suggests you may find fault with others[cite: 10, 21]. Recommendations: Focus on independent technical roles. Work on developing a more forgiving nature to improve collaboration[cite: 25]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 45, Conscientiousness: 15, Neuroticism: 35, Openness: 30",
+    "output": "Analysis: You are exceptionally talkative and full of energy[cite: 9, 19]. However, your low conscientiousness suggests you can be somewhat careless or disorganized[cite: 16, 26]. Recommendations: Leverage your sociability in community roles. Implement strict organizational systems to ensure you follow through on plans[cite: 46]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 22, Agreeableness: 32, Conscientiousness: 44, Neuroticism: 18, Openness: 48",
+    "output": "Analysis: You are an 'Introspective Visionary.' You are curious about many things and highly ingenious[cite: 18, 23]. Your high conscientiousness ensures you persevere until tasks are finished[cite: 36]. Recommendations: Thrive in research or academic settings. Your ability to remain calm in tense situations makes you a stable force in innovation[cite: 42]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 30, Agreeableness: 12, Conscientiousness: 28, Neuroticism: 38, Openness: 22",
+    "output": "Analysis: You have an assertive personality but tend to find fault with others[cite: 10, 34]. High neuroticism indicates you may get nervous easily or worry a lot[cite: 27, 47]. Recommendations: Focus on stress-management. Practice being more considerate and kind to improve interpersonal harmony[cite: 40]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 15, Agreeableness: 40, Conscientiousness: 40, Neuroticism: 15, Openness: 35",
+    "output": "Analysis: You are a quiet but highly dependable individual[cite: 21, 29]. You prioritize doing a thorough job and staying helpful to others[cite: 11, 15]. Recommendations: You are ideal for supportive leadership. Your low neuroticism allows you to handle stress well in back-office operations[cite: 17]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 34, Agreeableness: 20, Conscientiousness: 45, Neuroticism: 22, Openness: 40",
+    "output": "Analysis: You are a result-oriented individual who is original and full of ideas[cite: 13, 33]. Your high conscientiousness ensures you do things efficiently[cite: 41]. Recommendations: Pursue entrepreneurship. While you are assertive, try to be more cooperative with others to avoid being perceived as cold[cite: 34, 35, 50]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 18, Agreeableness: 35, Conscientiousness: 18, Neuroticism: 32, Openness: 42",
+    "output": "Analysis: You possess an active imagination and value aesthetic experiences[cite: 28, 38]. However, you may struggle with being disorganized or easily distracted[cite: 26, 51]. Recommendations: Thrive in fluid, creative environments. Use planners to help follow through on your ingenious ideas[cite: 46]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 10, Agreeableness: 10, Conscientiousness: 10, Neuroticism: 40, Openness: 10",
+    "output": "Analysis: You are currently experiencing high levels of stress and may feel depressed or blue[cite: 12, 27]. You tend to be disorganized and prefer routine work exclusively[cite: 26, 43]. Recommendations: Prioritize mental well-being and seek stable, low-pressure environments. Focus on building small, reliable habits to improve conscientiousness[cite: 21]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 45, Conscientiousness: 45, Neuroticism: 8, Openness: 50",
+    "output": "Analysis: This is an elite 'Polymath' profile. You are full of energy, highly ingenious, and exceptionally reliable[cite: 19, 23, 36]. You remain calm in tense situations[cite: 42]. Recommendations: Seek executive roles in high-innovation firms. Your ability to reflect on ideas while maintaining efficiency is a rare competitive advantage[cite: 41, 48]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 25, Agreeableness: 30, Conscientiousness: 30, Neuroticism: 24, Openness: 30",
+    "output": "Analysis: Your personality is well-balanced across all dimensions. You are neither overly reserved nor excessively talkative[cite: 14, 29]. Recommendations: You are versatile. Focus on roles that require a mix of independent work and moderate social interaction."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 14, Agreeableness: 42, Conscientiousness: 42, Neuroticism: 20, Openness: 25",
+    "output": "Analysis: You are a 'Quiet Pillar' of a team. You are helpful, unselfish, and a reliable worker[cite: 15, 21]. You prefer work that is routine but perform it with high efficiency[cite: 41, 43]. Recommendations: Pursue roles in administration, quality control, or specialized technical support where loyalty and precision are valued."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 36, Agreeableness: 18, Conscientiousness: 20, Neuroticism: 15, Openness: 44",
+    "output": "Analysis: You are an 'Unconventional Catalyst.' You generate a lot of enthusiasm and come up with original ideas[cite: 13, 24]. Your low agreeableness suggests you may be rude to others occasionally[cite: 45]. Recommendations: You would excel in creative direction or solo ventures. Work on being more considerate to maintain professional networks[cite: 40]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 20, Agreeableness: 45, Conscientiousness: 35, Neuroticism: 30, Openness: 40",
+    "output": "Analysis: You are a sensitive and compassionate individual[cite: 40]. You like to reflect and play with ideas but can get nervous easily[cite: 47, 48]. Recommendations: Seek roles in counseling, education, or social work. Your forgiving nature makes you an excellent mediator[cite: 25]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 38, Agreeableness: 25, Conscientiousness: 44, Neuroticism: 35, Openness: 15",
+    "output": "Analysis: You are an 'Energetic Enforcer.' You have an assertive personality and do a thorough job[cite: 11, 34]. However, you worry a lot and have few artistic interests[cite: 27, 49]. Recommendations: You are well-suited for operations management or law enforcement. Use your high conscientiousness to balance your tendency toward anxiety[cite: 21]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 12, Agreeableness: 40, Conscientiousness: 12, Neuroticism: 25, Openness: 45",
+    "output": "Analysis: You are a 'Spontaneous Dreamer.' You are curious and original but tend to be disorganized and lazy[cite: 13, 26, 31]. Recommendations: Focus on freelance creative work where you have flexibility. Partner with a manager who can help you follow through on your ingenious thoughts[cite: 23, 46]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 42, Conscientiousness: 40, Neuroticism: 12, Openness: 28",
+    "output": "Analysis: You are a highly stable social leader[cite: 17, 44]. You are generally trusting and a reliable worker[cite: 21, 30]. Recommendations: Thrive in HR, sales management, or public relations. Your ability to handle stress while remaining helpful makes you very approachable[cite: 15, 17]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 18, Agreeableness: 20, Conscientiousness: 45, Neuroticism: 38, Openness: 22",
+    "output": "Analysis: You are a 'Stressed Perfectionist.' You persevere until tasks are finished but worry a lot and can be moody[cite: 27, 36, 37]. Recommendations: You are great for auditing or data entry. Focus on stress management to prevent burnout from your high conscientiousness[cite: 47]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 15, Conscientiousness: 32, Neuroticism: 10, Openness: 48",
+    "output": "Analysis: You are a 'Bold Innovator.' You are assertive, full of energy, and highly original[cite: 13, 19, 34]. You handle stress well but may be rude to others[cite: 17, 45]. Recommendations: Pursue roles in high-stakes negotiation or venture capital. Developing empathy will help you sustain your leadership[cite: 40]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 22, Agreeableness: 44, Conscientiousness: 18, Neuroticism: 22, Openness: 35",
+    "output": "Analysis: You are a kind and helpful soul who is curious about the world[cite: 15, 18]. You can be somewhat careless with details[cite: 16]. Recommendations: You are suited for non-profit work or early childhood education. Use your curiosity to find new ways to help people[cite: 10]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 30, Agreeableness: 40, Conscientiousness: 44, Neuroticism: 15, Openness: 12",
+    "output": "Analysis: You are a 'Practical Anchor.' You are a reliable worker who stays helpful and cooperative[cite: 15, 21, 50]. You have few artistic interests and prefer routine[cite: 43, 49]. Recommendations: Excel in traditional business operations, logistics, or manufacturing oversight."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 15, Agreeableness: 12, Conscientiousness: 45, Neuroticism: 25, Openness: 48",
+    "output": "Analysis: You are an 'Analytical Recluse.' You are ingenious and do a thorough job, but you tend to find fault with others[cite: 10, 11, 23]. Recommendations: Focus on deep-tech research, architecture, or back-end engineering where your high-level ideas and precision are paramount[cite: 41]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 38, Agreeableness: 35, Conscientiousness: 22, Neuroticism: 32, Openness: 42",
+    "output": "Analysis: You are an 'Energetic Creative' who gets nervous easily[cite: 24, 47]. You generate a lot of enthusiasm but tend to be disorganized[cite: 24, 26]. Recommendations: Thrive in the arts or marketing. Use your outgoing nature to pitch ideas, but hire an assistant to manage your plans[cite: 44, 46]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 25, Agreeableness: 45, Conscientiousness: 45, Neuroticism: 8, Openness: 25",
+    "output": "Analysis: You are 'The Ideal Team Member.' You are considerate, efficient, and exceptionally stable[cite: 17, 40, 41]. Recommendations: You are suitable for any professional role. Your reliability and kindness make you the glue that holds teams together[cite: 15, 21]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 12, Agreeableness: 18, Conscientiousness: 15, Neuroticism: 38, Openness: 12",
+    "output": "Analysis: You are currently struggling with moodiness and high anxiety[cite: 37, 47]. You tend to be lazy and disorganized[cite: 26, 31]. Recommendations: Prioritize mental health. Seek a mentor to help you build basic organizational skills and a routine[cite: 43, 46]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 32, Conscientiousness: 44, Neuroticism: 22, Openness: 48",
+    "output": "Analysis: You are a 'Visionary Leader.' You come up with new ideas and persevere until the task is finished[cite: 13, 36]. Recommendations: You would excel as a CEO or founder. Your ability to stay calm while reflecting on deep thoughts is a powerful leadership trait[cite: 34, 48]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 18, Agreeableness: 44, Conscientiousness: 32, Neuroticism: 12, Openness: 45",
+    "output": "Analysis: You are a 'Humble Genius.' You are ingenious and deep-thinking but remain reserved[cite: 14, 23, 29]. You are kind to almost everyone[cite: 40]. Recommendations: Research, philosophy, or creative writing. Your low neuroticism allows you to explore complex ideas without stress[cite: 17]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 12, Conscientiousness: 45, Neuroticism: 28, Openness: 15",
+    "output": "Analysis: You are an 'Aggressive Achiever.' You are talkative and assertive but cold and aloof[cite: 9, 34, 35]. Recommendations: You are a powerhouse in sales or hostile takeovers. Work on your forgiving nature to prevent making enemies[cite: 25]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 28, Agreeableness: 40, Conscientiousness: 20, Neuroticism: 35, Openness: 48",
+    "output": "Analysis: You are a sensitive artist who values aesthetic experiences[cite: 30, 38, 48]. You are helpful but easily distracted[cite: 15, 51]. Recommendations: Graphic design, fashion, or music. Use your high openness to innovate while seeking tools to help you follow through on plans[cite: 46]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 12, Agreeableness: 32, Conscientiousness: 45, Neuroticism: 10, Openness: 12",
+    "output": "Analysis: You are a 'Quiet Expert.' You are extremely reliable, handle stress well, and prefer routine[cite: 17, 21, 43]. Recommendations: You are perfect for technical auditing, long-haul transport, or laboratory work where consistency is key[cite: 11]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 42, Conscientiousness: 28, Neuroticism: 18, Openness: 40",
+    "output": "Analysis: You are a socially adaptable individual who enjoys spending time with others[cite: 4, 44]. You are ingenious and curious[cite: 18, 23]. Recommendations: Public relations or marketing. Your ability to handle stress while reflecting on ideas is a major asset[cite: 17, 48]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 15, Agreeableness: 18, Conscientiousness: 42, Neuroticism: 30, Openness: 22",
+    "output": "Analysis: You are a 'Skeptical Specialist.' You are a reliable worker who prefers to stay quiet and find fault with others' work[cite: 10, 21, 29]. Recommendations: Quality assurance or peer review. Use your thoroughness to catch errors others miss[cite: 11]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 35, Conscientiousness: 40, Neuroticism: 38, Openness: 35",
+    "output": "Analysis: You are a 'High-Energy Worrywart.' You are full of energy and reliable but get nervous easily[cite: 19, 21, 47]. Recommendations: High-paced management roles. Developing calm in tense situations will help you manage your high neuroticism[cite: 34]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 22, Agreeableness: 45, Conscientiousness: 12, Neuroticism: 15, Openness: 42",
+    "output": "Analysis: You are a kind and unselfish individual who likes to play with ideas[cite: 15, 48, 50]. You tend to be disorganized[cite: 26]. Recommendations: Community service or creative arts. Your relaxed nature allows you to stay helpful without getting stressed[cite: 17]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 38, Agreeableness: 12, Conscientiousness: 45, Neuroticism: 12, Openness: 45",
+    "output": "Analysis: You are a 'Cold Genius.' You are assertive, ingenious, and a reliable worker[cite: 21, 23, 34]. Recommendations: Investment banking or surgical roles. Your low agreeableness and high stability allow you to make hard decisions[cite: 17, 35]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 14, Agreeableness: 44, Conscientiousness: 38, Neuroticism: 35, Openness: 15",
+    "output": "Analysis: You are a 'Supportive Worrier.' You are helpful and considerate but often feel tense[cite: 15, 22, 40]. Recommendations: Healthcare support or customer service. Use your reliability to provide comfort to others while managing your own stress levels[cite: 21, 47]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 32, Agreeableness: 32, Conscientiousness: 18, Neuroticism: 25, Openness: 48",
+    "output": "Analysis: You are a 'Scattered Intellectual.' You are curious and original but can be careless[cite: 13, 16, 18]. Recommendations: Research assistant or content creator. Find partners who can handle the 'thorough job' while you provide the ideas[cite: 11]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 20, Agreeableness: 20, Conscientiousness: 44, Neuroticism: 15, Openness: 12",
+    "output": "Analysis: You are a 'Mechanical Specialist.' You are reliable and handle stress well but are cold and aloof[cite: 17, 21, 35]. Recommendations: Engineering, data security, or heavy machinery operation where routine and precision are required[cite: 43]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 45, Conscientiousness: 15, Neuroticism: 22, Openness: 45",
+    "output": "Analysis: You are 'The Life of the Party.' You are outgoing, kind, and inventive[cite: 33, 40, 44]. Recommendations: Event planning, acting, or social activism. Focus on making plans and following through to reach your full potential[cite: 46]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 12, Agreeableness: 40, Conscientiousness: 45, Neuroticism: 38, Openness: 28",
+    "output": "Analysis: You are a 'Silent Achiever' who worries a lot[cite: 27, 29, 36]. You are considerate and kind but can be moody[cite: 37, 40]. Recommendations: Technical writing or account management. Your high conscientiousness ensures quality despite your internal stress[cite: 11, 21]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 15, Conscientiousness: 42, Neuroticism: 10, Openness: 35",
+    "output": "Analysis: You are a 'Tough Negotiator.' You are assertive, efficient, and emotionally stable[cite: 17, 34, 41]. Recommendations: Real estate, law, or high-level sales. Your low agreeableness allows you to prioritize the 'thorough job' over being liked[cite: 11, 35]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 18, Agreeableness: 45, Conscientiousness: 18, Neuroticism: 22, Openness: 45",
+    "output": "Analysis: You are a 'Creative Empath.' You are helpful, original, and sophisticated in art[cite: 13, 15, 52]. Recommendations: Counseling or the creative arts. Use your imagination to find new ways to be unselfish with others[cite: 28, 50]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 35, Conscientiousness: 45, Neuroticism: 12, Openness: 15",
+    "output": "Analysis: You are a 'Stellar Manager.' You are outgoing, reliable, and handle stress exceptionally well[cite: 17, 21, 44]. Recommendations: Operational leadership. Your preference for routine work while staying sociable makes you an excellent project manager[cite: 43]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 12, Agreeableness: 18, Conscientiousness: 42, Neuroticism: 40, Openness: 45",
+    "output": "Analysis: You are a 'Sensitive Scholar.' You are ingenious and thorough but worry a lot[cite: 11, 23, 27]. Recommendations: Academia or deep-data research. Work in low-pressure environments to manage your high neuroticism while you play with ideas[cite: 48]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 38, Agreeableness: 45, Conscientiousness: 32, Neuroticism: 25, Openness: 32",
+    "output": "Analysis: You are a 'Social Coordinator.' You are full of energy and considerate to everyone[cite: 19, 40, 44]. Recommendations: Hospitality or human resources. Use your outgoing nature to help cooperate with others effectively[cite: 50]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 22, Agreeableness: 12, Conscientiousness: 45, Neuroticism: 12, Openness: 22",
+    "output": "Analysis: You are a 'Disciplined Individualist.' You do a thorough job and handle stress well but can be cold[cite: 11, 17, 35]. Recommendations: Technical specialists in high-stakes environments like cyber-security or logistics[cite: 21, 43]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 40, Conscientiousness: 15, Neuroticism: 32, Openness: 45",
+    "output": "Analysis: You are an 'Enthusiastic Innovator' who is easily distracted[cite: 13, 24, 51]. You are helpful and kind[cite: 15, 40]. Recommendations: Creative brainstormer or social media coordinator. Partner with a conscientious person to help you finish what you start[cite: 36]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 18, Agreeableness: 45, Conscientiousness: 45, Neuroticism: 15, Openness: 12",
+    "output": "Analysis: You are a 'Quiet Workhorse.' You are extremely reliable, kind, and prefer routine[cite: 17, 21, 40]. Recommendations: Data entry, laboratory technician, or accounting. Your stability and kindness are highly valued in long-term teams[cite: 43]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 15, Conscientiousness: 45, Neuroticism: 38, Openness: 45",
+    "output": "Analysis: You are a 'Volatile Visionary.' You are talkative, assertive, and ingenious, but you get nervous easily[cite: 9, 23, 34, 47]. Recommendations: High-stakes startups. Focus on remaining calm in tense situations to stabilize your ingenious output[cite: 42]."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 25, Agreeableness: 40, Conscientiousness: 30, Neuroticism: 25, Openness: 42",
+    "output": "Analysis: You are a 'Balanced Explorer.' You possess an active imagination and a forgiving nature[cite: 25, 28, 48]. Recommendations: You are versatile. Focus on roles in the travel industry, education, or non-profits where your curiosity and kindness shine[cite: 10, 15, 18]."
+  }
+]
