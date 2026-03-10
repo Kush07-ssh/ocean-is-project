@@ -1,3 +1,5 @@
 .env
 Emotional_Behaviour/
 ocean_model_merged/
+.idea/
+__pycache__/
