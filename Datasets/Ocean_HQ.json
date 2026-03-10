@@ -1,0 +1,372 @@
+[
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 36, Agreeableness: 38, Conscientiousness: 18, Neuroticism: 32, Openness: 28",
+    "output": "Analysis: You are an energetic and socially engaging person, but your low conscientiousness suggests a pattern of starting things without finishing them. High neuroticism means you are easily rattled by setbacks, which compounds the disorganization. You generate enthusiasm in groups but struggle to follow through independently. Recommendations: Partner with detail-oriented colleagues who can anchor your energy to deliverables. Build daily structure through time-blocking and written task lists. Work on stress regulation through exercise or mindfulness before it derails your social strengths."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 14, Conscientiousness: 40, Neuroticism: 12, Openness: 30",
+    "output": "Analysis: You are a driven, assertive individual who combines high discipline with emotional resilience. Your low agreeableness means you are competitive and direct, often perceived as cold or dismissive in team settings. You get things done but may alienate people along the way. Recommendations: Use your high conscientiousness to build trust through consistent delivery rather than charisma. Actively practice listening without rebuttal in meetings. Roles in project management, operations, or individual contributor leadership suit you well — avoid pure people management until you develop empathy."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 10, Agreeableness: 42, Conscientiousness: 43, Neuroticism: 11, Openness: 47",
+    "output": "Analysis: You are a quiet visionary — deeply curious, highly organized, and genuinely warm, but rarely the one speaking in the room. Your combination of high openness and conscientiousness makes you exceptional at turning abstract ideas into structured work. Low neuroticism means you handle pressure without panic. Recommendations: Seek roles in research, strategy, or technical design where your depth is valued over visibility. Do not mistake quietness for lack of leadership ability — consider taking on project ownership roles. Your blind spot is undervaluing your own contributions; advocate for yourself more directly."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 14, Agreeableness: 12, Conscientiousness: 41, Neuroticism: 33, Openness: 16",
+    "output": "Analysis: You are a solitary specialist who is methodical and reliable but significantly affected by anxiety. Low agreeableness and low extraversion mean you prefer working alone and may clash when forced into collaborative environments. High neuroticism adds internal pressure that can manifest as irritability or withdrawal under stress. Recommendations: Identify roles with clear, measurable individual deliverables — software development, data analysis, or lab research are strong fits. Build a stress management routine that is non-negotiable. Be aware that your social friction is often misread as rudeness; a brief awareness of tone in written communication can help significantly."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 16, Agreeableness: 38, Conscientiousness: 22, Neuroticism: 36, Openness: 48",
+    "output": "Analysis: You are a deeply empathic and imaginative person who is frequently undone by disorganization and emotional volatility. Your openness gives you a rich inner world and creative capacity, but low conscientiousness means ideas rarely reach completion. High neuroticism amplifies every setback into a crisis. Recommendations: Creative fields suit your openness, but only if paired with external accountability structures. Consider a creative partner or manager who handles logistics. Therapy or journaling can help you process emotional reactivity before it disrupts work. Your empathy is a real asset in user research, counseling, or design — channel it rather than suppress it."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 32, Agreeableness: 25, Conscientiousness: 28, Neuroticism: 22, Openness: 15",
+    "output": "Analysis: You are a socially capable pragmatist. You are outgoing and emotionally stable, but you prefer concrete, practical work over abstract thinking. Your moderate agreeableness means you can cooperate when needed but won't sacrifice your position easily. Recommendations: You are well-suited to roles in sales, operations, or trades where results are tangible and interpersonal skills matter. Your low openness may limit adaptability in rapidly changing industries — make a habit of exposing yourself to new methods periodically. Your emotional stability is a genuine asset; use it to steady teams during uncertainty."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 39, Agreeableness: 43, Conscientiousness: 30, Neuroticism: 14, Openness: 12",
+    "output": "Analysis: You are warm, sociable, and emotionally resilient — a natural community builder. Your low openness reflects a preference for tradition, routine, and proven methods over novelty. Mid-range conscientiousness means you are reliable in familiar situations but may slip when novelty or complexity increases. Recommendations: You thrive in human-facing roles like client relations, HR, or community management. Be intentional about following through on commitments — your sociability can sometimes overshadow your accountability. Avoid roles that require constant adaptation to new frameworks or abstract analysis."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 37, Agreeableness: 11, Conscientiousness: 16, Neuroticism: 35, Openness: 45",
+    "output": "Analysis: This is a volatile and unpredictable profile. High extraversion combined with low agreeableness means you dominate conversations and can be genuinely abrasive. High neuroticism adds emotional instability, making your reactions disproportionate under pressure. High openness gives you creative ideas that never land because low conscientiousness means nothing gets executed. Recommendations: This profile is high-risk without active intervention. Prioritize emotional regulation work immediately — coaching or CBT therapy. Your creativity and energy have real value but are currently self-defeating. Seek structured environments with clear accountability until you build internal discipline."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 31, Agreeableness: 41, Conscientiousness: 38, Neuroticism: 12, Openness: 13",
+    "output": "Analysis: You are a reliable, sociable, and steady executor. You work well with people, deliver consistently, and keep your composure under stress. Low openness is your primary limitation — you dislike ambiguity, resist new ideas, and may be slow to adapt in rapidly evolving environments. Recommendations: You are an excellent operations manager, account handler, or team lead in stable industries. Proactively expose yourself to structured learning — courses or mentors — to compensate for low openness. Your emotional stability and reliability make you someone others trust; lean into that as your core professional identity."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 34, Agreeableness: 13, Conscientiousness: 24, Neuroticism: 16, Openness: 14",
+    "output": "Analysis: You are assertive, independent, and hard to rattle. Your low agreeableness means you will push back on authority and resist consensus, and your low conscientiousness suggests a preference for improvisation over planning. Low openness adds rigidity. Recommendations: You function best as a self-directed individual contributor — entrepreneurship, contracting, or technical specialist roles. Avoid roles requiring close collaboration or political navigation. Your stability is a real strength; pair it with a discipline system (sprints, deadlines) to counter low conscientiousness."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 24, Agreeableness: 40, Conscientiousness: 40, Neuroticism: 16, Openness: 47",
+    "output": "Analysis: You are a well-rounded and highly capable individual. Your combination of high openness and conscientiousness makes you both creative and disciplined — a rare pairing. High agreeableness ensures you are a genuine team player, and low neuroticism keeps you clear-headed under pressure. Your moderate extraversion means you contribute meaningfully without dominating. Recommendations: You are suited for any role requiring both strategic thinking and reliable execution — product management, scientific research, or senior consulting. Your primary risk is over-committing due to agreeableness; learn to say no to protect your capacity for deep work."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 26, Agreeableness: 11, Conscientiousness: 44, Neuroticism: 13, Openness: 25",
+    "output": "Analysis: You are a cold, highly disciplined, and efficient operator. Your low agreeableness combined with high conscientiousness produces someone who gets results without worrying about how people feel during the process. Emotional stability means you are unmoved by criticism or pressure, which reads as confidence to some and as callousness to others. Recommendations: You are built for high-performance individual or small-team roles in finance, engineering, law, or logistics where output matters more than likeability. Your blind spot is people management — you will lose teams if you don't develop basic interpersonal consideration. Take leadership training not as optional but as a professional necessity."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 22, Agreeableness: 35, Conscientiousness: 14, Neuroticism: 37, Openness: 46",
+    "output": "Analysis: You are an empathic, imaginative person who is being held back by disorganization and chronic anxiety. You feel things deeply and can generate meaningful creative work, but low conscientiousness means delivery is inconsistent and emotional reactivity disrupts your momentum. Recommendations: You need scaffolding: deadlines, accountability partners, and a daily minimum commitment to your work. Anxiety treatment — whether through therapy, medication evaluation, or structured exercise — should be a priority, not an afterthought. Roles in the arts, writing, therapy, or design can play to your strengths if you build delivery discipline."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 28, Agreeableness: 24, Conscientiousness: 32, Neuroticism: 28, Openness: 34",
+    "output": "Analysis: You are a broadly average profile with no dramatic strengths or weaknesses. You are moderately adaptable, reasonably reliable, and generally cooperative, but nothing stands out as exceptional. This means you are versatile but may struggle to differentiate yourself in competitive environments. Recommendations: Identify the one or two traits you want to strengthen deliberately — pick a direction and commit. Your current profile suits generalist roles but will plateau without intentional development. Consider what environment brings out your best work and optimize for that context rather than trying to be universally competent."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 21, Agreeableness: 43, Conscientiousness: 42, Neuroticism: 24, Openness: 14",
+    "output": "Analysis: You are a conscientious, cooperative, and dependable person who strongly prefers working within established systems rather than reinventing them. Low openness means you find value in consistency and proven methods. Moderate neuroticism is your main vulnerability — you may carry stress internally without showing it. Recommendations: Administration, compliance, healthcare support, or skilled trades are natural fits. Proactively address stress before it accumulates — you tend to absorb rather than express difficulty. Your reliability and warmth make you an invaluable support figure in any team; ensure your contributions are visible and fairly recognized."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 27, Agreeableness: 13, Conscientiousness: 15, Neuroticism: 11, Openness: 50",
+    "output": "Analysis: You are an intellectually free-spirited individual with a genuine hunger for ideas, but very low conscientiousness and low agreeableness mean those ideas rarely convert into disciplined execution or collaborative outcomes. Your emotional stability is a genuine asset — you handle uncertainty well. Recommendations: Pure research, philosophy, writing, or entrepreneurship can work for you, but only if you build a co-founder or collaborator who provides structure and interpersonal bridge. Your resistance to convention is valuable in creative industries. The risk is becoming a chronic ideator with no output — force yourself to ship something every month, however imperfect."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 25, Agreeableness: 30, Conscientiousness: 43, Neuroticism: 31, Openness: 44",
+    "output": "Analysis: You are an anxious perfectionist with real capability. High conscientiousness and openness make you thorough, creative, and intellectually engaged. However, high neuroticism means you over-worry about quality, second-guess decisions, and take criticism harder than is warranted. Recommendations: Your work output is likely very high quality — trust it more. Develop a deliberate stopping rule: done is better than perfect at the draft stage. Therapy or stress-management practices are not weakness here; they are performance tools. Roles in academia, architecture, writing, or data science will reward your exactness."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 23, Agreeableness: 14, Conscientiousness: 28, Neuroticism: 39, Openness: 12",
+    "output": "Analysis: This is a high-risk profile. High neuroticism combined with low agreeableness and low openness produces someone who is frequently stressed, resistant to collaboration, and unable to use novelty as a coping resource. Low conscientiousness adds instability to daily function. Recommendations: This profile calls for honest self-assessment and professional support. Career stability will require managing the neuroticism through structured routines and professional counseling. Independent or highly defined roles with minimal ambiguity are essential — unstructured environments will amplify instability. Physical health habits (sleep, exercise) have an outsized impact on neuroticism regulation."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 29, Agreeableness: 41, Conscientiousness: 17, Neuroticism: 10, Openness: 30",
+    "output": "Analysis: You are socially warm, emotionally stable, and easy to be around, but your low conscientiousness is a consistent professional liability. You may be well-liked but underestimated because follow-through is unreliable. Recommendations: Use your interpersonal strength to build accountability partnerships with structured peers. Move into roles where delivery is team-based rather than individually tracked until you build more self-discipline. Your calm and warmth make you excellent in facilitation, client support, or teaching contexts where relationship quality matters more than deadline precision."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 22, Agreeableness: 26, Conscientiousness: 35, Neuroticism: 14, Openness: 48",
+    "output": "Analysis: You are a curious, focused, and emotionally stable introvert. Your high openness drives genuine intellectual curiosity and a willingness to explore ideas unconventionally. Low neuroticism means setbacks are processed calmly and rationally. Mid agreeableness means you can collaborate but value your independence. Recommendations: Research, data science, philosophy, engineering, or writing are natural environments. You are likely an excellent deep-focus worker — protect that time ruthlessly. Your blind spot may be under-communicating your ideas; your insights are valuable but only if shared. Practice presenting your thinking in group settings even when it feels unnecessary."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 45, Conscientiousness: 45, Neuroticism: 8, Openness: 50",
+    "output": "Analysis: This is an exceptionally high-functioning profile across all five dimensions. You are sociable, warm, disciplined, emotionally resilient, and intellectually open. This combination rarely occurs naturally and suggests someone who has worked deliberately on their development. Recommendations: You are suited for senior leadership, cross-functional roles, or any environment requiring both vision and execution. Your primary risk is complacency — high scores across the board can reduce hunger for growth. Set ambitious goals that stretch you. Watch for over-optimism: not every situation or person deserves full trust just because you are capable of trusting."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 8, Agreeableness: 9, Conscientiousness: 9, Neuroticism: 40, Openness: 10",
+    "output": "Analysis: This is a significantly distressed profile. Minimal scores in prosocial traits combined with maximum neuroticism suggests someone who is socially withdrawn, frequently overwhelmed, and finding little joy or engagement in daily activity. This is not a fixed state but requires immediate and honest attention. Recommendations: This profile calls for professional mental health support as a first priority — not career advice. Establishing basic daily structure (sleep, meals, movement) provides a foundation. Small, achievable goals matter more than ambition right now. Identify one safe person to trust and one daily activity that provides any positive experience, however minor."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 38, Conscientiousness: 36, Neuroticism: 22, Openness: 32",
+    "output": "Analysis: You are a well-rounded, socially capable, and emotionally steady individual. Your scores are consistently solid across all traits with no major liabilities, which makes you adaptable across many environments. You are not an outlier in any dimension but that consistency itself is a significant strength. Recommendations: You will perform competently in a wide range of roles — the key is to find an environment that rewards versatility. Leadership suits you well. Consider whether your moderate openness is limiting ambition: deliberately seek out one genuinely new professional experience each year to keep your adaptability sharp."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 14, Agreeableness: 39, Conscientiousness: 41, Neuroticism: 13, Openness: 27",
+    "output": "Analysis: You are a quietly reliable and warm individual who consistently delivers without needing recognition. Low extraversion means you work best in smaller groups or independently. Your combination of high agreeableness and conscientiousness makes you a trusted collaborator. Low neuroticism prevents stress from derailing you. Recommendations: You are ideal for backend roles in organizations — compliance, quality assurance, operations, or project coordination. Be aware that your low extraversion combined with high agreeableness can make you invisible in large organizations; actively document and communicate your contributions. Do not let agreeableness prevent you from negotiating for what you deserve."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 38, Agreeableness: 10, Conscientiousness: 43, Neuroticism: 20, Openness: 46",
+    "output": "Analysis: You are a competitive, high-achieving individual who combines creativity with discipline and social presence. Low agreeableness means you are results-focused to the point of being blunt or dismissive of others' feelings. You are effective but demanding, and teams may find you exhausting over time. Recommendations: You are built for high-performance roles — competitive sales, entrepreneurship, or technical leadership. Work actively on receiving feedback from your team without becoming defensive. Your path to sustained leadership is not more competence — you already have that — it is learning to bring people with you rather than past them."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 26, Agreeableness: 42, Conscientiousness: 16, Neuroticism: 24, Openness: 49",
+    "output": "Analysis: You are imaginative, warm, and genuinely interested in ideas and people, but low conscientiousness is a persistent pattern of under-delivery. You start projects energetically and lose momentum. Your empathy and openness make you excellent at generating ideas and connecting with people but the execution gap is real. Recommendations: You need external structure: co-working environments, accountability partners, or short sprint commitments. Roles in ideation, user research, community building, or early-stage creative work suit you — avoid roles requiring sustained solo execution. Treat your disorganization as a system problem, not a character flaw: build the right environment and your output will improve."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 12, Agreeableness: 11, Conscientiousness: 44, Neuroticism: 12, Openness: 33",
+    "output": "Analysis: You are a disciplined, independent, and emotionally controlled individual. Low agreeableness and extraversion mean you prefer working alone and have little patience for social niceties or collaborative slowdowns. High conscientiousness ensures your output is consistently high quality. Recommendations: Software engineering, financial analysis, legal research, or any precision-based solo role is your natural domain. Your combination is particularly well-suited to expert or specialist tracks — you can become genuinely world-class at something if you stay focused. Your blind spot is professional isolation: occasionally invest in collegial relationships not for social reasons but for the career opportunities they create."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 37, Agreeableness: 25, Conscientiousness: 26, Neuroticism: 16, Openness: 11",
+    "output": "Analysis: You are an outgoing, confident, and down-to-earth pragmatist. Low agreeableness means you are direct and competitive; low openness means you prefer tangible results over abstract theory. Mid conscientiousness produces inconsistent follow-through. Recommendations: Sales, real estate, skilled trades, or operational roles in stable industries fit you well. Your stability and social energy are genuine assets in face-to-face roles. Build one consistent habit around task completion — even a daily checklist — to counter low conscientiousness. Your directness is a strength in the right context; develop awareness of when diplomacy is strategically necessary."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 24, Agreeableness: 36, Conscientiousness: 43, Neuroticism: 15, Openness: 29",
+    "output": "Analysis: You are a dependable, cooperative, and steady team player. High conscientiousness combined with solid agreeableness makes you someone colleagues trust to deliver and to support. Low neuroticism means you handle pressure without crisis. Moderate openness means you're practical rather than visionary. Recommendations: Project coordination, operations, healthcare, or team management are natural fits. Your risk is staying in execution mode forever without advocating for yourself professionally. You tend to make others look good through your reliability — ensure your contributions are attributed. Seek mentors who will sponsor your advancement, as your profile is oriented toward supporting others rather than self-promotion."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 16, Agreeableness: 29, Conscientiousness: 13, Neuroticism: 37, Openness: 47",
+    "output": "Analysis: You are an anxious, imaginative person who is genuinely intelligent but functioning far below your potential. High openness gives you real insight and creative thinking, but chronic anxiety and low conscientiousness create a pattern of unfinished work and self-sabotage. Recommendations: Treating the anxiety — through consistent therapy, medication if appropriate, and structured routines — is the highest-leverage action available to you. Once that stabilizes, your creativity and curiosity can genuinely flourish. Careers in writing, art, research, or counseling match your inner world; you just need the stability to access them consistently."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 33, Agreeableness: 40, Conscientiousness: 14, Neuroticism: 33, Openness: 35",
+    "output": "Analysis: You are warm and engaging but unreliable under pressure. High agreeableness makes you well-liked and collaborative; extraversion amplifies that charm. However, low conscientiousness combined with high neuroticism creates a pattern of over-promising and under-delivering, especially when things get stressful. Recommendations: You need roles with strong team accountability where individual commitments are visible and shared. Work on stress management — your neuroticism degrades an otherwise appealing profile when pressure arrives. Your warmth and sociability are genuine assets in client-facing, community, or facilitation roles but pair them with a trusted operational partner."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 10, Agreeableness: 44, Conscientiousness: 11, Neuroticism: 14, Openness: 46",
+    "output": "Analysis: You are a gentle, curious, and emotionally calm individual with a strong inner world and deep empathy. Your low conscientiousness means daily structure is loose and goals often shift. However, low neuroticism prevents this from becoming a source of distress for you personally — though others may be frustrated by your unreliability. Recommendations: Creative fields, counseling, spiritual care, or volunteer work can give you a meaningful container for your warmth and openness. Building one consistent daily routine — even a simple one — will have an outsized positive effect on your output. You are someone who needs a purpose more than a plan; find work that connects to meaning and the discipline often follows."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 27, Agreeableness: 12, Conscientiousness: 42, Neuroticism: 10, Openness: 17",
+    "output": "Analysis: You are a highly efficient, cold, and pragmatic operator. Low agreeableness and openness create someone who is blunt, prefers concrete realities, and has little patience for ambiguity or emotional discussions. High conscientiousness and low neuroticism make you exceptionally reliable and calm. Recommendations: Finance, logistics, compliance, law enforcement, or systems engineering are strong fits. You will perform excellently as an individual contributor and in roles requiring tough decisions without emotional contamination. Your blind spot is human relations — you may be perceived as hostile when you are simply being efficient. Invest minimally but deliberately in professional courtesy."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 39, Agreeableness: 12, Conscientiousness: 11, Neuroticism: 36, Openness: 44",
+    "output": "Analysis: This is an unstable and combustible combination. High extraversion and openness generate big ideas and social energy, while low agreeableness means you express them with no filter. High neuroticism adds emotional swings that make you unpredictable. Low conscientiousness ensures most of what you start doesn't finish. Recommendations: This profile needs containment before capability. Emotional regulation work is urgent — coaching, therapy, or structured journaling. Your creativity and energy are real assets but are currently burning bridges and wasting potential. An entrepreneurial environment with a strong operational co-founder could channel your strengths; a corporate environment will be a repeated source of conflict."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 17, Agreeableness: 32, Conscientiousness: 31, Neuroticism: 26, Openness: 36",
+    "output": "Analysis: You are a moderately reserved and thoughtful individual with balanced traits. You are neither a liability nor a standout performer on paper, but you bring quiet reliability and genuine consideration to your work. Recommendations: You function well in mid-level roles in most industries. Focus on developing a specific skill or domain expertise that distinguishes you — your profile does not self-differentiate through personality alone. Moderate your tendency to stay silent in group settings; your observations are often more accurate than those being voiced."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 31, Agreeableness: 41, Conscientiousness: 38, Neuroticism: 12, Openness: 13",
+    "output": "Analysis: You are a reliable, social, and emotionally steady individual who is most comfortable with familiar systems and proven approaches. Low openness means you may resist change and innovation, which can become a career limitation in fast-moving fields. Recommendations: You are a natural fit for roles in established industries — healthcare administration, HR, finance operations, or client management. Proactively invest in one new technology or method per quarter to stay relevant. Your stability is a genuine competitive advantage when teams are under pressure; position yourself as the steady hand in uncertain situations."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 25, Agreeableness: 27, Conscientiousness: 12, Neuroticism: 38, Openness: 38",
+    "output": "Analysis: You are creative and emotionally sensitive, but chronic anxiety and very low conscientiousness prevent consistent functioning. You likely have a rich inner life and real insight but find it difficult to convert these into tangible output. Recommendations: Treating neuroticism is the prerequisite for everything else here. With stability, your openness and moderate social ability could support meaningful work in creative, research, or advisory roles. Without it, disorganization and anxiety will continue to collide. Build the smallest possible daily structure and expand from there. One completed task per day is better than a brilliant plan that never starts."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 19, Agreeableness: 26, Conscientiousness: 44, Neuroticism: 10, Openness: 15",
+    "output": "Analysis: You are a quiet, independent, and highly disciplined individual. Your combination of low extraversion, high conscientiousness, and low neuroticism makes you an exceptionally reliable solo operator who rarely needs supervision. Low openness and agreeableness suggest a preference for known domains and working alone. Recommendations: You will excel in technical specialist roles — engineering, accounting, logistics, or data work. Your self-sufficiency is a strength but can isolate you professionally. Identify one senior person in your field and invest in that relationship deliberately — your career advancement likely depends more on visibility than performance at this stage."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 28, Agreeableness: 43, Conscientiousness: 42, Neuroticism: 9, Openness: 48",
+    "output": "Analysis: You are an ideal collaborator with a rare balance of warmth, discipline, creativity, and calm. You produce high-quality work, support your team genuinely, remain composed under pressure, and bring genuine intellectual curiosity to problems. Recommendations: Product management, scientific research, senior consulting, or strategic roles suit you well. Your profile is one that organizations depend on heavily — be careful about over-commitment as a result of both your conscientiousness and agreeableness. Set clear boundaries about your capacity. You have the profile to lead with significant positive impact; accept that responsibility."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 36, Agreeableness: 14, Conscientiousness: 41, Neuroticism: 15, Openness: 16",
+    "output": "Analysis: You are a competitive, results-focused, and professionally effective individual. High conscientiousness and emotional stability mean you deliver reliably under pressure. Low agreeableness and openness suggest a commanding, no-nonsense style that can intimidate or alienate colleagues who value collaboration. Recommendations: You are well-suited to high-performance specialist or managerial roles in structured industries. Your career risk is a reputation for being difficult to work with — which can close doors regardless of results. Practice genuine curiosity about your colleagues' perspectives: one question and one listen per meeting is a low-cost investment with significant returns."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 11, Agreeableness: 10, Conscientiousness: 10, Neuroticism: 14, Openness: 36",
+    "output": "Analysis: You are a detached, philosophical loner. Minimal extraversion, agreeableness, and conscientiousness suggest someone who operates entirely independently and has little investment in social or institutional expectations. Low neuroticism means this is not distressing to you personally, and high openness gives you a rich intellectual life. Recommendations: You need roles with maximum autonomy and minimum social obligation — freelance writing, independent research, programming, or skilled artisan work. The risk is chronic under-achievement relative to your intellectual potential due to lack of structure and social anchoring. Building one external commitment per week — even a small one — can prevent complete drift."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 37, Agreeableness: 42, Conscientiousness: 39, Neuroticism: 34, Openness: 47",
+    "output": "Analysis: You are a passionate, capable, and engaging individual whose high neuroticism is a persistent drag on an otherwise strong profile. You are sociable, warm, disciplined, and intellectually open — but high emotional reactivity means you swing between periods of excellent performance and debilitating stress. Recommendations: Stress management is your primary professional development priority — not a side project. Therapy, sleep hygiene, and workload structuring will do more for your career than any skill course right now. Your underlying profile is genuinely strong; the goal is consistency. Identify your neuroticism triggers at work and build buffers into your schedule around them."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 26, Agreeableness: 31, Conscientiousness: 33, Neuroticism: 13, Openness: 50",
+    "output": "Analysis: You are a curious, stable, and intellectually engaged generalist. Maximum openness gives you a genuine hunger for ideas and an ability to see connections others miss. Moderate conscientiousness and agreeableness mean you can work within systems and with people without being constrained by them. Recommendations: Research, innovation roles, writing, design, or advisory work suit your profile. You are at your worst in repetitive, closed-system environments — seek contexts where intellectual range is valued. Your risk is perpetual exploration without commitment; create a deliberate focus window of at least six months on one domain before moving to the next."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 15, Agreeableness: 41, Conscientiousness: 40, Neuroticism: 35, Openness: 30",
+    "output": "Analysis: You are a warm, reliable, and internally stressed individual. High agreeableness and conscientiousness make you an excellent support figure who follows through on commitments. However, high neuroticism means you carry a heavy internal load — you help everyone else while quietly struggling yourself. Recommendations: Healthcare, education support, social work, or administration suit your profile. The most important thing for you professionally is to reduce the gap between how much you give and how much you protect your own wellbeing. Learn to identify and communicate your stress limits before they become crises. You are often the person others lean on — identify who you lean on."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 32, Agreeableness: 11, Conscientiousness: 28, Neuroticism: 37, Openness: 32",
+    "output": "Analysis: You are socially assertive and emotionally volatile. Low agreeableness combined with high neuroticism creates someone who is frequently combative and easily destabilized. Mid conscientiousness means your performance is inconsistent. You likely have periods of high productivity followed by burnout or conflict. Recommendations: Emotional regulation work is the single highest-priority intervention here. Your profile is capable of strong performance but the instability is career-limiting. Structured environments with clear rules and consequences help contain neuroticism. Avoid management roles until emotional reactivity is under control — the stakes are too high for the people you would oversee."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 10, Agreeableness: 45, Conscientiousness: 45, Neuroticism: 8, Openness: 10",
+    "output": "Analysis: You are a deeply giving, highly reliable, and emotionally stable individual with very traditional values and preferences. Your exceptional conscientiousness and agreeableness combined with maximum emotional stability make you someone others deeply trust and depend on. Low openness means change and novelty are uncomfortable. Recommendations: You are exceptional in roles requiring patient, long-term commitment — nursing, social work, administration, religious service, or skilled trades. Be aware that your discomfort with change may cause you to stay in situations — jobs, relationships, systems — past the point they are healthy. Practice evaluating situations annually against your actual values, not just your comfort."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 24, Agreeableness: 13, Conscientiousness: 32, Neuroticism: 24, Openness: 38",
+    "output": "Analysis: You are an independent-minded analytical thinker who values intellectual honesty over social harmony. Low agreeableness means you will push back on bad ideas regardless of authority, which is either highly valuable or politically damaging depending on the environment. Moderate conscientiousness and neuroticism keep you functional without being particularly driven or anxious. Recommendations: Roles in analysis, research, auditing, or strategy are well-suited — environments that reward accurate contrarian thinking. Your blind spot is that you may be right far more often than you are effective, because being right without being persuasive achieves little. Develop communication skills that preserve your honesty while increasing your influence."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 38, Agreeableness: 29, Conscientiousness: 27, Neuroticism: 32, Openness: 15",
+    "output": "Analysis: You are a socially dominant but internally stressed and inconsistent individual. High extraversion projects confidence; high neuroticism undermines it privately. Low conscientiousness means commitments are made socially and broken operationally. Low openness adds rigidity. Recommendations: Your energy and social presence are real professional assets — don't squander them on roles requiring deep solo execution. Sales, external relations, or team facilitation suit you better than project ownership. Building basic stress-management habits will have a disproportionate positive effect on your consistency and professional reputation."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 16, Agreeableness: 36, Conscientiousness: 14, Neuroticism: 18, Openness: 50",
+    "output": "Analysis: You are a gentle, imaginative visionary with a very loose relationship to structure. Your high openness and low neuroticism create someone who is endlessly curious and emotionally resilient but low conscientiousness means productivity is erratic. Agreeableness ensures you are kind and cooperative when engaged. Recommendations: Artistic, philosophical, spiritual, or design fields match your inner orientation. The practical challenge is sustainability — your profile does not naturally produce consistent output. Find a production environment that gives you creative freedom with just enough structure to create real deliverables. Consider collaborative arrangements where a more organized partner handles workflow."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 25, Agreeableness: 32, Conscientiousness: 40, Neuroticism: 15, Openness: 34",
+    "output": "Analysis: You are a reliable, thoughtful, and intellectually engaged generalist with solid emotional stability. No dramatic weaknesses, and your conscientiousness ensures you deliver consistently. Moderate openness keeps you practical while still curious. Recommendations: You are a strong candidate for technical project roles, scientific work, or mid-level management. Your profile is steady and trustworthy, which creates long-term professional reputation even without flashy strengths. Focus on developing a specialist depth in one area to accelerate career growth — your generalist reliability is necessary but not sufficient for senior advancement alone."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 36, Agreeableness: 41, Conscientiousness: 31, Neuroticism: 13, Openness: 43",
+    "output": "Analysis: You are a creative, warm, and sociable individual with genuine interpersonal intelligence and intellectual curiosity. Mid conscientiousness is the limiting factor — your follow-through doesn't match your ambition or your charm. Low neuroticism keeps you light and resilient. Recommendations: You are exceptional in early-stage and idea-generation roles — innovation labs, community building, early startups, or creative agencies. Build a system for completing what you start: a weekly review, a committed collaborator, or a hard delivery deadline. Your combination of warmth and creativity is rare; don't waste it on disorganization."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 13, Agreeableness: 15, Conscientiousness: 43, Neuroticism: 27, Openness: 45",
+    "output": "Analysis: You are an introverted, analytically sharp, and creatively capable individual who carries moderate anxiety alongside genuine intellectual depth. Low agreeableness means you're self-directed and skeptical of consensus thinking. High conscientiousness ensures your ideas are executed with care. Recommendations: Data science, research engineering, academic writing, or strategy consulting suit you well. Manage your tendency toward perfectionism — high conscientiousness plus high openness can produce brilliant but perpetually unfinished work. Your skepticism of social norms is an asset in analytical roles; in collaborative ones, calibrate when it's worth spending political capital."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 36, Agreeableness: 39, Conscientiousness: 29, Neuroticism: 31, Openness: 47",
+    "output": "Analysis: You are a passionate, socially engaging creative with real warmth and intellectual depth. High neuroticism is your primary challenge — it generates periods of anxiety that disrupt your otherwise strong profile. Low-to-mid conscientiousness means delivery remains inconsistent. Recommendations: Creative strategy, marketing, content, or innovation roles suit you. Pair with a structured operational partner on larger projects. Develop a pre-project anxiety plan: what triggers your stress spirals, what early signs look like, and what interventions work for you. Your energy and ideas are genuinely valued — make them predictably available."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 18, Agreeableness: 30, Conscientiousness: 44, Neuroticism: 12, Openness: 28",
+    "output": "Analysis: You are a quiet, self-sufficient, and disciplined professional. High conscientiousness and low neuroticism make you exceptionally productive in structured, independent work. You are reliable, calm, and thorough. Moderate openness and agreeableness mean you work within systems without being creatively ambitious or particularly gregarious. Recommendations: Technical roles — engineering, accounting, scientific research, or legal work — are ideal. You are highly promotable in specialist tracks. The risk is that in team environments your quietness is mistaken for disengagement; make your contributions visible through documentation and regular brief updates rather than personality-based communication."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 27, Agreeableness: 11, Conscientiousness: 14, Neuroticism: 40, Openness: 48",
+    "output": "Analysis: This is a highly turbulent creative profile. Maximum neuroticism combined with low conscientiousness and low agreeableness creates extreme instability — brilliant ideas, emotional volatility, poor follow-through, and difficult relationships. High openness ensures the ideas keep coming even when nothing ships. Recommendations: This profile requires immediate and sustained mental health support. The creative potential here is real but completely inaccessible under current levels of distress. Stabilize first — everything else is secondary. When stable, explore creative freelance or solo work that allows flexibility without requiring sustained collaboration or delivery consistency."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 33, Agreeableness: 37, Conscientiousness: 43, Neuroticism: 26, Openness: 46",
+    "output": "Analysis: You are a high-functioning and well-rounded individual with genuine strengths across all five dimensions. You are sociable and warm, disciplined and creative, with moderate emotional sensitivity that keeps you grounded rather than overwhelmed. Recommendations: Senior roles in innovation-heavy organizations, cross-functional leadership, or consulting are natural fits. Your moderate neuroticism is actually an asset — it keeps you alert to risk without paralyzing you. Focus on building a specific domain reputation; your breadth of capability means you can go many directions, which sometimes results in no clear direction at all. Choose and commit."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 20, Agreeableness: 35, Conscientiousness: 35, Neuroticism: 30, Openness: 44",
+    "output": "Analysis: You are a thoughtful, empathic, and moderately anxious intellectual. Your openness and agreeableness give you genuine insight into ideas and people. Moderate conscientiousness means you follow through most of the time, but high neuroticism disrupts your consistency. Recommendations: Research, counseling, education, or UX roles suit your blend of intellectual curiosity and empathy. Your neuroticism is worth addressing — it prevents a naturally capable person from operating at full potential. Practice distinguishing productive anxiety (a useful signal) from rumination (a counterproductive loop) and develop a personal toolkit for the latter."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 39, Agreeableness: 15, Conscientiousness: 38, Neuroticism: 16, Openness: 30",
+    "output": "Analysis: You are a confident, assertive, and results-oriented professional. High extraversion and conscientiousness make you effective and visible. Low agreeableness means you don't soften hard truths or waste time on consensus-building — which accelerates outcomes but damages relationships. Recommendations: Sales leadership, operations management, or entrepreneurship suit you well. Your blind spot is talent retention — high performers will leave teams you lead if they don't feel respected. Invest in learning how to deliver criticism constructively; your current directness is accurate but unnecessarily abrasive. Small adjustments here have large returns."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 22, Agreeableness: 44, Conscientiousness: 30, Neuroticism: 36, Openness: 33",
+    "output": "Analysis: You are a deeply caring and emotionally sensitive individual who struggles with anxiety and inconsistent delivery. High agreeableness makes you genuinely considerate and supportive; high neuroticism means you absorb others' stress in addition to your own. Mid conscientiousness produces uneven output. Recommendations: You are naturally gifted for roles involving emotional labor — therapy, nursing, social work, or teaching — but must build strong self-care boundaries to avoid burnout. Your biggest professional risk is not lack of skill but emotional exhaustion from over-extending. Practice saying no to one request per week as a discipline."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 30, Agreeableness: 23, Conscientiousness: 39, Neuroticism: 22, Openness: 47",
+    "output": "Analysis: You are a curious, disciplined, and moderately assertive individual. High openness combined with solid conscientiousness makes you effective at both generating and executing on ideas. Moderate agreeableness means you can collaborate but will push back on decisions you disagree with. Recommendations: Product development, technical strategy, research engineering, or innovation management are strong fits. You are capable of leading without needing to be the most popular person in the room. Develop your stakeholder communication skills — your ideas and execution are strong but buy-in from others will determine the scale of your impact."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 11, Agreeableness: 44, Conscientiousness: 42, Neuroticism: 30, Openness: 22",
+    "output": "Analysis: You are a quietly dependable and warm individual who carries more stress than most people around you would guess. You are highly reliable, genuinely caring, and prefer conventional approaches. High neuroticism creates an internal worry load that is largely invisible externally. Recommendations: Supportive specialist roles — healthcare, administration, education, compliance — suit your profile well. You need to externalize your internal stress more than you currently do: journaling, trusted colleagues, or professional support. Your conscientiousness and agreeableness are genuine career strengths — ensure they are being recognized and compensated fairly."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 34, Agreeableness: 28, Conscientiousness: 41, Neuroticism: 11, Openness: 44",
+    "output": "Analysis: You are a confident, creative, and disciplined individual. You combine intellectual curiosity with practical follow-through and emotional stability. Mid agreeableness means you collaborate when valuable but hold your position when needed. Recommendations: You are suited for senior technical roles, product strategy, or independent consulting. Your profile supports both individual contribution and leadership. Watch for a tendency to undervalue collaboration — your self-sufficiency can become insularity. Actively seek feedback on your work from diverse sources; your stability can shield you from useful critical input."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 15, Agreeableness: 13, Conscientiousness: 40, Neuroticism: 14, Openness: 46",
+    "output": "Analysis: You are an independent, creative, and highly disciplined analyst. Your combination of high openness and conscientiousness with low extraversion and agreeableness describes someone who does their best work alone, thinking deeply, and executing carefully. Social interaction is draining, not energizing, and consensus is not your goal. Recommendations: Research science, engineering, financial analysis, or specialized writing roles are natural fits. You are likely a strong expert contributor. Develop a minimum viable communication habit — even introverts need to influence stakeholders to advance professionally. Practice summarizing your work concisely for non-specialists."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 28, Agreeableness: 38, Conscientiousness: 29, Neuroticism: 28, Openness: 40",
+    "output": "Analysis: You are a warm, curious, and moderately anxious generalist. Your empathy and openness make you genuinely interested in both people and ideas. Mid conscientiousness and moderate neuroticism produce a pattern of reliable-but-not-exceptional delivery. Recommendations: Consulting, coaching, facilitation, or research roles allow your empathy and curiosity to shine without demanding rigid structure. Build habits that anchor your openness to completion: one finished project per month, no matter the scope. Your emotional sensitivity is a professional asset in roles involving people — don't pathologize it, but learn to regulate it when it tips into anxiety."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 40, Agreeableness: 43, Conscientiousness: 22, Neuroticism: 14, Openness: 22",
+    "output": "Analysis: You are an extremely sociable, warm, and emotionally stable individual who is genuinely enjoyable to work with. Low conscientiousness and openness mean you are not a strategic planner or a details person — you are a relationship builder who thrives in high-trust human environments. Recommendations: Sales, hospitality, community management, frontline leadership, or client success roles are your domain. You will underperform in roles requiring solo execution, strategic planning, or technical depth. Accept this honestly and lean fully into human-facing roles where your warmth and social energy are the primary value driver."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 18, Agreeableness: 28, Conscientiousness: 38, Neuroticism: 16, Openness: 49",
+    "output": "Analysis: You are a quietly exceptional intellectual. High openness and conscientiousness combined with low extraversion and stable emotions describe a rare profile: someone who thinks originally and executes reliably without needing external validation. Recommendations: Academic research, technical innovation, deep-focus engineering, or skilled writing are your natural domains. Your profile is genuinely high-potential. The undervaluation risk is real — you do excellent work that is rarely visible because you don't promote it. Treat occasional self-advocacy not as ego but as professional responsibility. One presentation, paper, or public project per year changes how you are perceived significantly."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 32, Agreeableness: 40, Conscientiousness: 40, Neuroticism: 25, Openness: 15",
+    "output": "Analysis: You are a sociable, reliable, and cooperative professional who values people and proven systems above novelty. Low openness means change is uncomfortable and innovation is not a natural motivator, but your consistency and warmth make you deeply trusted. Moderate neuroticism gives you just enough concern to stay attentive without tipping into anxiety. Recommendations: Operations, HR, healthcare management, or account management roles fit you well. Make a deliberate effort to stay current with changes in your industry — your low openness is a long-term adaptability risk in most fields. One course or new process per year keeps you relevant."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 23, Agreeableness: 43, Conscientiousness: 15, Neuroticism: 12, Openness: 13",
+    "output": "Analysis: You are warm, calm, and easygoing — a genuinely pleasant person who is difficult to dislike. However, very low conscientiousness and openness suggest a pattern of comfortable drift rather than purposeful effort. You are not anxious about where you are, which is both your strength and your risk. Recommendations: This profile needs purpose more than strategy. Identify what genuinely matters to you and build a minimum viable structure around it. Your warmth suits caregiving, community, or service roles. Without deliberate direction, this profile is at risk of underachieving relative to its relational potential. Find a motivating context and your agreeableness and calm become real leadership assets."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 36, Agreeableness: 40, Conscientiousness: 32, Neuroticism: 20, Openness: 40",
+    "output": "Analysis: You are a creative, socially warm, and emotionally grounded individual. Your combination of openness and agreeableness makes you genuinely good at building bridges between ideas and people. Moderate conscientiousness and low neuroticism mean you deliver consistently without being rigid or anxious. Recommendations: Innovation, product, communications, or community roles suit you well. You have the raw material for strong leadership — your primary gap is depth of execution. Build the habit of taking one project from idea to full completion before adding new ones. Your profile naturally generates trust; use that to take on bigger responsibilities."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 13, Agreeableness: 15, Conscientiousness: 13, Neuroticism: 14, Openness: 11",
+    "output": "Analysis: This is a highly disengaged profile. Minimal scores across all five dimensions describe someone who is detached, unambitious, and largely indifferent to social or productive engagement. Critically, low neuroticism means this is not causing distress — it simply reflects a very low level of engagement with the external world. Recommendations: This profile benefits most from identifying one thing that genuinely sparks interest — not pressure or obligation, but real curiosity. Start from there. External structure helps: a role with clear, small daily tasks and minimal social pressure can provide enough anchor. Avoid reading this as a permanent state; it is a current position, not a fixed identity."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 28, Agreeableness: 38, Conscientiousness: 29, Neuroticism: 28, Openness: 40",
+    "output": "Analysis: You are a warm, curious, and moderately anxious generalist. Your openness and agreeableness make you genuinely engaged with both ideas and people. Moderate conscientiousness and neuroticism result in reliable-but-inconsistent delivery — you perform well when motivated but trail off under prolonged pressure. Recommendations: Facilitation, consulting, research support, or coaching roles allow your strengths to drive outcomes without requiring rigid structure. Build a monthly completion habit to anchor your intellectual energy. Distinguish between productive worry (acting on real signals) and ruminative anxiety (cycling without action) — managing this one distinction will meaningfully improve both your wellbeing and output."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 33, Agreeableness: 37, Conscientiousness: 22, Neuroticism: 16, Openness: 43",
+    "output": "Analysis: You are an engaging, imaginative, and emotionally steady person whose low conscientiousness is preventing you from converting your evident potential into consistent output. You generate good ideas and connect well with people, but follow-through is unreliable. Recommendations: Creative strategy, early-stage innovation, or facilitation roles can leverage your openness and social strengths. Commit to one small non-negotiable daily task to build follow-through as a habit — not a personality change, but a practiced skill. Partner with operationally strong colleagues for project delivery. Your resilience and creativity are genuinely valuable; structure is the only missing ingredient."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 20, Agreeableness: 22, Conscientiousness: 37, Neuroticism: 19, Openness: 42",
+    "output": "Analysis: You are a thoughtful, disciplined, and intellectually curious introvert. Your moderate agreeableness means you are not hostile, just selective — you cooperate when the value is clear. Emotional stability and solid conscientiousness make you a dependable specialist. Recommendations: Technical writing, data science, software engineering, or policy analysis suit your profile. You produce excellent independent work. Your career advancement depends less on developing charisma than on developing the ability to communicate your findings clearly to non-technical audiences. Practice translating your work into a two-minute summary anyone can understand."
+  },
+  {
+    "instruction": "Generate a professional personality report and recommendations based on the provided OCEAN scores.",
+    "input": "Extraversion: 35, Agreeableness: 32, Conscientiousness: 37, Neuroticism: 23, Openness: 38",
+    "output": "Analysis: You are a capable, balanced, and adaptable professional. Your consistent mid-to-high scores across most dimensions suggest someone who performs well in a variety of environments and handles complexity without breaking down. Moderate neuroticism keeps you alert; moderate agreeableness keeps you cooperative without being passive. Recommendations: This is a strong generalist profile suited for cross-functional roles, team leadership, or client management. Your main competitive risk is differentiation — your versatility is real, but it doesn't stand out in hiring or promotion decisions. Identify one domain to go deep in and build expertise that makes your versatility more credible."
+  }
+]

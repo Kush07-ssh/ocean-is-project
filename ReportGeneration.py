@@ -24,7 +24,7 @@ def fig_to_base64(fig):
     return base64.b64encode(buf.read()).decode('utf-8')
 
 
-# --- YOUR ORIGINAL RADAR CHART ENGINE ---
+# RADAR CHART ENGINE
 
 def create_radar_chart_base64(scores):
     labels = list(scores.keys())
@@ -50,7 +50,7 @@ def create_radar_chart_base64(scores):
     return base64.b64encode(buf.read()).decode('utf-8')
 
 
-# --- INTEGRATED REPORT GENERATION FUNCTION ---
+# INTEGRATED REPORT GENERATION FUNCTION
 
 def generate_html_report(candidate_name, scores_array, llm_analysis_text, temporal_snapshots=None):
     # 1. Map Big Five Scores
@@ -120,7 +120,7 @@ def generate_html_report(candidate_name, scores_array, llm_analysis_text, tempor
         <div class="report-container">
             <div class="header">
                 <h1>Comprehensive Personality Assessment</h1>
-                <h2>Prepared for: Harshit</h2>
+                <h2>Prepared for: XYZ</h2>
             </div>
 
             <div class="top-layout">

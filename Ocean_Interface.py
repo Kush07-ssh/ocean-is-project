@@ -54,7 +54,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-# --- 3. HELPER FUNCTIONS FOR VIDEO/PLOTS ---
+# 3. HELPER FUNCTIONS FOR VIDEO/PLOTS
 
 def get_frame(video_path, timestamp_sec, is_thermal=False):
     if not os.path.exists(video_path): return None
@@ -94,7 +94,7 @@ def create_emotion_plot(valence_data, arousal_data, current_idx):
     return fig
 
 
-# --- 4. QUESTION DATA ---
+#  4. QUESTION DATA
 questions = [
     "Is talkative", "Tends to find fault with others", "Does a thorough job",
     "Is depressed, blue", "Is original, comes up with new ideas", "Is reserved",
@@ -221,6 +221,7 @@ def display_results():
                 })
 
             llm_analysis_text = llm_analysis(scores_dict)
+            print(llm_analysis_text)
             # This calls the updated function where personality is at the TOP
             html_content = generate_html_report("Candidate Name", scores_array, llm_analysis_text, report_snapshots)
 
