@@ -1,0 +1,79 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  OCEAN Personality Assessment — Docker Compose
+#
+#  Services:
+#    model-server  →  FastAPI wrapping Qwen2.5 fine-tuned model  (port 8000)
+#    web-app       →  Streamlit UI, calls model-server via HTTP   (port 8501)
+#
+#  Before running:
+#    1. Place your merged model in ./models/ocean_model_merged/
+#    2. Place Emotional_Behaviour data in ./Emotional_Behaviour/
+#    3. docker compose up --build
+#
+#  Then open: http://localhost:8501
+# ─────────────────────────────────────────────────────────────────────────────
+
+services:
+  # ── Model Inference Server ──────────────────────────────────────────────────
+  model-server:
+    build:
+      context: .
+      dockerfile: Dockerfile.model
+    container_name: ocean-model-server
+    restart: unless-stopped
+
+    # GPU support — comment this block out for CPU-only
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+
+    volumes:
+      - ./models:/models:ro # Mount model folder — never baked into the image
+
+    environment:
+      MODEL_PATH: /models/ocean_model_merged
+
+    ports:
+      - "8000:8000" # Optional: remove in production
+
+    networks:
+      - ocean-net
+
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 120s
+
+  # ── Streamlit Web App ───────────────────────────────────────────────────────
+  web-app:
+    build:
+      context: .
+      dockerfile: Dockerfile.webapp
+    container_name: ocean-web-app
+    restart: unless-stopped
+
+    volumes:
+      - ./Emotional_Behaviour:/app/Emotional_Behaviour:ro
+
+    environment:
+      MODEL_SERVER_URL: http://model-server:8000
+
+    ports:
+      - "8501:8501"
+
+    networks:
+      - ocean-net
+
+    depends_on:
+      model-server:
+        condition: service_healthy
+
+networks:
+  ocean-net:
+    driver: bridge
