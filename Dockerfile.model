@@ -1,0 +1,42 @@
+# ─── Model Server Container ───────────────────────────────────────────────────
+# Base: PyTorch with CUDA 12.1. Use pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime
+# for GPU, or python:3.11-slim for CPU-only.
+#
+# To build for GPU:   docker build -t ocean-model-server -f Dockerfile.model .
+# To build CPU-only:  docker build --build-arg BASE=python:3.11-slim -t ocean-model-server -f Dockerfile.model .
+
+# For GPU
+# ARG BASE=pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime
+
+# For CPU-only
+ARG BASE=python:3.11-slim
+FROM ${BASE}
+
+WORKDIR /app
+
+# System deps
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git curl && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN pip install --no-cache-dir torch==2.10.0 --index-url https://download.pytorch.org/whl/cpu
+
+# Python deps for the model server
+COPY model_server/requirements.model.txt .
+RUN pip install --no-cache-dir -r requirements.model.txt
+
+# Copy only the files the model server needs
+COPY OceanModel.py .
+COPY model_server/model_server.py .
+
+# The fine-tuned model is mounted at runtime via a Docker volume.
+# Default path — override with MODEL_PATH env var if needed.
+ENV MODEL_PATH=/models/ocean_model_merged
+
+EXPOSE 8000
+
+# Health check so docker-compose knows when the server is ready
+HEALTHCHECK --interval=30s --timeout=10s --start-period=120s --retries=5 \
+    CMD curl -f http://localhost:8000/health || exit 1
+
+CMD ["python", "model_server.py"]

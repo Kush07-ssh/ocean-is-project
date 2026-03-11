@@ -1,0 +1,34 @@
+# ─── Web App Container ────────────────────────────────────────────────────────
+
+FROM python:3.11-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libgl1 libglib2.0-0 curl && \
+    rm -rf /var/lib/apt/lists/*
+
+COPY requirements.webapp.txt .
+RUN pip install --no-cache-dir -r requirements.webapp.txt
+
+# App source files
+COPY OceanModel.py .
+COPY Ocean_Interface.py .
+COPY ReportGeneration.py .
+
+# Emotional behaviour data (video + npy files) is mounted at runtime.
+VOLUME ["/app/Emotional_Behaviour"]
+
+# MODEL_SERVER_URL tells OceanModel.py to use HTTP mode instead of loading locally.
+# Set to the model container's service name in docker-compose.
+ENV MODEL_SERVER_URL=http://model-server:8000
+
+EXPOSE 8501
+
+HEALTHCHECK --interval=30s --timeout=10s --start-period=30s --retries=3 \
+    CMD curl -f http://localhost:8501/_stcore/health || exit 1
+
+CMD ["streamlit", "run", "Ocean_Interface.py", \
+     "--server.port=8501", \
+     "--server.address=0.0.0.0", \
+     "--server.headless=true"]
